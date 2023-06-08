@@ -20,7 +20,6 @@ Följ stegen nedan för att installera och köra applikationen lokalt:
 
 4. Starta applikationen genom att köra följande kommando: npm start
 
-5. Installera axios genom att köra följande kommando: npm install axios
 
 
 Applikationen kommer att köras i utvecklingsläge och du kan öppna den i din webbläsare på [http://localhost:3000](http://localhost:3000).
@@ -76,12 +75,4 @@ Du kan anpassa applikationen genom att ändra vissa inställningar och stilar i 
 
 - I "Banner.tsx" kan du ändra sökikonen genom att ersätta "lookingglass.png"-filen med din egen bild.
 
-Bidrag
-------
 
-Om du vill bidra till detta projekt är du välkommen att skicka in pull-begäranden med eventuella förbättringar eller korrigeringar.
-
-Licens
-------
-
-Detta projekt är licensierat under MIT-licensen. Se filen "LICENSE" för mer information.
