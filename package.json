@@ -2,7 +2,7 @@
   "name": "kdomega",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pinuten.github.io/",
+  "homepage": "https://pinuten.github.io/kdomega",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
